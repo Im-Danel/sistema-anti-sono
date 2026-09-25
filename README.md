@@ -158,6 +158,14 @@ sistema-anti-sono/
 │   ├── main.py                     # Implementação final em POO
 │   └── prototipo_procedural.py     # Protótipo inicial procedural (histórico)
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
+
+---
+
+## 📜 Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
