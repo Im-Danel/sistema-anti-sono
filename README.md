@@ -5,6 +5,13 @@
 
 Software de monitoramento de fadiga e sonolência em tempo real para prevenção de acidentes e apoio cognitivo, combinando **Visão Computacional** (OpenCV + MediaPipe Face Mesh) e uma **arquitetura orientada a objetos (POO)** modular em Python.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-Face%20Mesh-0078D4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+</p>
+
 ---
 
 ## 👥 Autores
